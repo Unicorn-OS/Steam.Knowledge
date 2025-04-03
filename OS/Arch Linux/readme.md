@@ -4,4 +4,4 @@ sch: https://www.google.com/search?q=manjaro+steam
 https://wiki.archlinux.org/title/Steam
 
 # Guide:
-- [[Linux] How to play Games on Manjaro (Arch) By Darksidewalker](https://steamcommunity.com/sharedfiles/filedetails/?id=2935747884)
+## Top: [[Linux] How to play Games on Manjaro (Arch) By Darksidewalker](https://steamcommunity.com/sharedfiles/filedetails/?id=2935747884)
