@@ -1,0 +1,1 @@
+- [[SOLVED] steam crashing opon launch, glXChooseVisual failed. / Newbie Corner / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=302629)
